@@ -1,0 +1,25 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+body {
+  background-color: #ffc2a0;
+  height: 100vh;
+}
+.container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+}
+.text {
+  color: #ff8542;
+  text-align: center;
+}
+.list-container {
+  list-style-type: none;
+  padding: 10px;
+  margin: 30px;
+}

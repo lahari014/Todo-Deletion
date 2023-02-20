@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.but {
+  color: red;
+  background-color: white;
+  border-radius: 10px;
+  border-color: red;
+  border-width: 1px;
+  padding: 10px;
+}
